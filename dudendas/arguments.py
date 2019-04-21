@@ -10,7 +10,7 @@ logger = logging.getLogger("dudendas")
 def parse_arguments():
     parser = ArgumentParser(
         prog="Dudendas",
-        description="A tool to collect words from Duden."
+        description="A tool for collecting words from Duden."
     )
     parser.add_argument("-v", "--debug", action="store_true",
                         help="Print debug information.")

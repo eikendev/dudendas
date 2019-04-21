@@ -16,7 +16,7 @@
 Usage
 =====
 
-A tool to collect words from Duden.
+A tool for collecting words from Duden.
 
 Installation
 ============
