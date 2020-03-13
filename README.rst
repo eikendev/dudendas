@@ -1,16 +1,25 @@
-.. image:: https://img.shields.io/pypi/status/dudendas.svg
+.. image:: https://img.shields.io/travis/eikendev/dudendas/master
+   :alt: Build status
+   :target: https://travis-ci.org/github/eikendev/dudendas/builds/
+
+.. image:: https://img.shields.io/pypi/status/dudendas
+   :alt: Development status
    :target: https://pypi.org/project/dudendas/
 
-.. image:: https://img.shields.io/pypi/l/dudendas.svg
+.. image:: https://img.shields.io/pypi/l/dudendas
+   :alt: License
    :target: https://pypi.org/project/dudendas/
 
-.. image:: https://img.shields.io/pypi/pyversions/dudendas.svg
+.. image:: https://img.shields.io/pypi/pyversions/dudendas
+   :alt: Python version
    :target: https://pypi.org/project/dudendas/
 
-.. image:: https://img.shields.io/pypi/v/dudendas.svg
+.. image:: https://img.shields.io/pypi/v/dudendas
+   :alt: Version
    :target: https://pypi.org/project/dudendas/
 
-.. image:: https://img.shields.io/pypi/dm/dudendas.svg
+.. image:: https://img.shields.io/pypi/dm/dudendas
+   :alt: Downloads
    :target: https://pypi.org/project/dudendas/
 
 Usage
