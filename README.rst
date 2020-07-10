@@ -1,6 +1,6 @@
 .. image:: https://img.shields.io/travis/eikendev/dudendas/master
    :alt: Build status
-   :target: https://travis-ci.org/github/eikendev/dudendas/builds/
+   :target: https://travis-ci.com/github/eikendev/dudendas/builds/
 
 .. image:: https://img.shields.io/pypi/status/dudendas
    :alt: Development status
