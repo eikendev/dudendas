@@ -41,8 +41,8 @@ class DudenSearch(object):
                 msg = 'Found {} matches on page {}.'
                 logger.debug(msg.format(len(links), k + 1))
 
-                for l in links:
-                    href = l["href"]
+                for link in links:
+                    href = link["href"]
                     self.results.add(href)
             except Exception as e:
                 logger.warning("Caught %s for page %d.", type(e).__name__, k + 1)
